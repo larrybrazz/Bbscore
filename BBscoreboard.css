@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background: #3d1190;
+}
+
+.container {
+display: flex;
+justify-content: space-around;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+/* identical to box height, or 90% */
+
+color: #EEEEEE;
+
+}
+p {
+    background: #080001;
+border-radius: 5px;
+}
+.homeNum{
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+.guestNum{
+    font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+
+}
+button{
+    padding: 5px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
